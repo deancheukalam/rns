@@ -1,0 +1,33 @@
+/*
+    Theme Name: Rent & Sale Vastgoed
+    Author: Equal IT Partners NV
+    Version: 0.0.1
+    Description: Dit wordt het super thema voor vastgoed websites
+*/
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px; /* Height of the footer */
+}
+
+#wrapper {
+    padding-bottom: 60px; /* Height of the footer */
+}
+
+#content {
+    margin-top: 20px; /* Add margin-top to create space */
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 15px 0 5px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; 
+}
