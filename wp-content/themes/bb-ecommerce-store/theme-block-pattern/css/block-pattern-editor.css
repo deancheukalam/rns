@@ -1,0 +1,105 @@
+.banner-section img,
+.products-section .wc-block-grid__product-image img {
+    width: 100%;
+}
+.banner-section-content h1 {
+    font-weight: 700;
+}
+.banner-section-content h1,.products-section h2 {
+    font-weight: 700;
+}
+.banner-section-content h1,.banner-section-content 
+.banner-btn a,.service-section p,.products-section h2,.categories-section p,
+.products-section ul li a {
+    font-family: 'Roboto';
+}
+.banner-btn .wp-block-button__link {
+    color: #fff !important;
+    padding: 10px;
+    border: 2px #fff solid;
+    font-weight: 600;
+    text-decoration: none;
+}
+.banner-section.wp-block {
+    margin-bottom: 0px !important;
+}
+.categories-section .category {
+    background: #000;
+    padding: 16px;
+}
+.categories-section ul {
+    list-style: none;
+    margin: 0px !important;
+    padding: 10px !important;
+}
+.categories-section .wp-block,.service-section.wp-block {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.categories-section {
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 30%);
+}
+.categories-section .category:before{
+    content: "\f0c9";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    color: #fff;
+    margin-right: 8px;
+}
+.categories-section ul li a {
+    color: #000 !important;
+    text-decoration: none;
+}
+.service-section.wp-block-columns {
+    gap: 0em !important;
+}
+.service-section p {
+    font-weight: 600;
+}
+.products-section {
+    border: 2px solid #f1f1f1;  
+}
+.products-section a.wp-block-button__link {
+    background-color: #E22626;
+    color: #fff !important;
+    border: #E22626;
+}
+.products-section a.wp-block-button__link:hover {
+    background: #202020 !important;
+}
+.products-section a.wp-block-button__link {
+    border-radius: 0px !important;
+    font-weight: 700;
+    padding: 5px 10px !important;
+    font-size: 14px !important;
+}
+.products-section ul li a {
+    text-decoration: none !important;
+}
+.products-section .wc-block-grid__product-title {
+    font-size: 18px !important;
+    color: #000000 !important;
+}
+.products-section .wc-block-grid__product-price {
+    font-size: 16px;
+    font-weight: 600;
+}
+.products-section li.wc-block-grid__product {
+    max-width: 22% !important;
+    margin: 0 12px !important;
+    background: #f5f5f5;
+}
+.products-section li.wc-block-grid__product {
+    border-left: 0px !important;
+    border-right: 0px !important;
+}
+.products-section .wc-block-grid__product-onsale {
+    background: #e22626;
+    color: #fff;
+    border: 0;
+    border-radius: 50%;
+    padding: 14px 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}

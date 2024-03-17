@@ -1,0 +1,219 @@
+# Translation of Themes - GridBulletin in Dutch
+# This file is distributed under the same license as the Themes - GridBulletin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-30 08:02:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - GridBulletin\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "GridBulletin is a lightweight and mobile-friendly WordPress theme. Grid layout on blog and archive page. Personalize your website via the Customizer in your dashboard and by using a custom post or page template. It also contains multiple widget areas. Enjoy!"
+msgstr "GridBulletin is een lichtgewicht en mobielvriendelijk WordPress-thema. Grid weergave op blog- en archiefpagina. Personaliseer je website via de Customizer in je dashboard en door een aangepast bericht of pagina template te gebruiken. Het heeft ook meerdere widgetgebieden. Veel plezier ermee!"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "GridBulletin"
+msgstr "GridBulletin"
+
+#: functions.php:273
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: functions.php:292
+msgid "This will override the copyright text."
+msgstr "Dit vervangt de copyright tekst."
+
+#: functions.php:283
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:181
+msgid "Only numeric characters allowed. Leave empty for original size."
+msgstr "Alleen numerieke tekens toegestaan. Laat leeg voor originele grootte."
+
+#: functions.php:180
+msgid "Width"
+msgstr "Breedte"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: page-full.php:23 page.php:21 single-full.php:22 single.php:20
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: functions.php:264
+msgid "Posts"
+msgstr "Berichten"
+
+#: functions.php:224 functions.php:291
+msgid "Content"
+msgstr "Inhoud"
+
+#: functions.php:215 functions.php:254
+msgid "Title"
+msgstr "Titel"
+
+#: header.php:62
+msgid " +"
+msgstr " +"
+
+#: functions.php:192
+msgid "Blog Page"
+msgstr "Blog Pagina"
+
+#: functions.php:207 functions.php:245 functions.php:260 functions.php:279
+msgid "No"
+msgstr "Nee"
+
+#: functions.php:206 functions.php:244 functions.php:259 functions.php:278
+msgid "Yes"
+msgstr "Ja"
+
+#: functions.php:201 functions.php:239
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:230
+msgid "Archive Page"
+msgstr "Archief Pagina"
+
+#: functions.php:164
+msgid "This logo will replace site title and tagline."
+msgstr "Dit logo zal sitenaam en tagline te vervangen."
+
+#: content-postmeta-single.php:14
+msgid "Format: %s"
+msgstr "Formaat: %s"
+
+#: header.php:62
+msgid "Menu"
+msgstr "Menu"
+
+#: content-postmeta-single.php:8
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: content-postmeta.php:11
+msgid "% comments"
+msgstr "% reacties"
+
+#: content-postmeta.php:11
+msgid "1 comment"
+msgstr "1 reactie"
+
+#: content-postmeta.php:11
+msgid "No comments"
+msgstr "Geen reacties"
+
+#: functions.php:120
+msgid "Footer Left"
+msgstr "Footer Links"
+
+#: functions.php:111
+msgid "Footer Middle"
+msgstr "Footer Midden"
+
+#: functions.php:102
+msgid "Footer Right"
+msgstr "Footer Rechts"
+
+#: comments.php:16
+msgid "%1$s comment on %2$s"
+msgid_plural "%1$s comments on %2$s"
+msgstr[0] "%1$s reactie op %2$s"
+msgstr[1] "%1$s reacties op %2$s"
+
+#: functions.php:42
+msgid "Default header"
+msgstr "Standaard header"
+
+#: functions.php:95 functions.php:104 functions.php:113 functions.php:122
+msgid "You can add one or multiple widgets here."
+msgstr "Je kunt hier één of meerdere widgets toevoegen."
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Volledige breedte template"
+
+#: content-postmeta-single.php:10
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: content-postmeta-single.php:8 content-postmeta-single.php:10
+msgid ", "
+msgstr ", "
+
+#: search.php:11
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: page-full.php:32 page.php:30 single-full.php:34 single.php:32
+msgid "Edit"
+msgstr "Bewerken"
+
+#: functions.php:162 functions.php:171
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:93
+msgid "Primary Sidebar"
+msgstr "Primaire sidebar"
+
+#: functions.php:15
+msgid "Primary Navigation"
+msgstr "Primair navigatiemenu"
+
+#: footer.php:28
+msgid "Copyright"
+msgstr "Copyright"
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: content-postmeta.php:9
+msgid "By %s"
+msgstr "Door %s"
+
+#: content-postmeta.php:8
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#: content-list.php:19
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: content-list.php:15
+msgid "Featured post"
+msgstr "Uitgelicht bericht"
+
+#: content-none.php:8
+msgid "Sorry, no posts matched your criteria."
+msgstr "Helaas, er zijn geen berichten die aan je criteria voldoen."
+
+#: content-none.php:7
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.guido.site"
+msgstr "https://www.guido.site"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Guido"
+msgstr "Guido"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.guido.site/themes"
+msgstr "https://www.guido.site/themes"

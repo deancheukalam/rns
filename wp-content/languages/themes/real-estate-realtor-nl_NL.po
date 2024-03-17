@@ -1,0 +1,2340 @@
+# Translation of Themes - Real Estate Realtor in Dutch
+# This file is distributed under the same license as the Themes - Real Estate Realtor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-27 23:07:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Real Estate Realtor\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Real Estate Realtor is designed for property dealers, property dealing companies, real estate agents, builders, architects, interior designer, estate advisors. You will absolutely love the clean, and responsive layout of this theme that matches the expectations of such businesses. To showcase the crystal clear property images and images related to your work, it has got a retina-ready design. As it utilized a good blend of colors and light and dark combination along with relevant imagery, your website is going to look beautifully professional. It is a free theme giving you plenty of resources to get started with your website in no time. With plenty of personalization options available, it is a breeze to do the changes without implementing any new codes or even modifying the existing ones. CSS animations make the website look more interesting and to get you more traffic, developers have already included SEO-friendly and highly optimized codes to the design. These codes result in faster page load time. Call To Action Button (CTA) adds to the interactive part of your website and also plays a significant role in boosting conversions. It is a Bootstrap framework-based theme having plenty of shortcodes and social media options for you to promote on a bigger scale. Live Demo: https://www.buywptemplates.com/bwt-real-estate-realtor-pro/"
+msgstr "Real Estate Realtor is ontworpen voor vastgoedmakelaars, vastgoedbedrijven, vastgoedagenten, bouwers, architecten, interieurontwerpers en vastgoedadviseurs. Je zult absoluut houden van het schone en responsive ontwerp van dit thema dat voldoet aan de verwachtingen van dergelijke bedrijven. Om de kristalheldere afbeeldingen van eigendommen en afbeeldingen gerelateerd aan je werk te presenteren, heeft het een retina klaar ontwerp. Door het gebruik van een goede mix van kleuren en lichte en donkere combinaties, samen met relevante afbeeldingen, zal je site er prachtig professioneel uitzien. Het is een gratis thema dat je voldoende bronnen biedt om snel aan de slag te gaan met je site. Met tal van personalisatie opties is het een fluitje van een cent om wijzigingen aan te brengen zonder nieuwe codes te implementeren of zelfs bestaande codes aan te passen. CSS animaties maken de site interessanter en om meer verkeer te genereren, hebben ontwikkelaars al SEO vriendelijke en zeer geoptimaliseerde codes aan het ontwerp toegevoegd. Deze codes zorgen voor een snellere laadtijd van de pagina. De Call To Action knop draagt bij aan het interactieve sectie van je site en speelt ook een belangrijke rol bij het verhogen van conversies. Het is een op het Bootstrap framework gebaseerd thema met tal van shortcodes en sociale media-opties om op grotere schaal te promoten. Live demo: https://www.buywptemplates.com/bwt-real-estate-realtor-pro/"
+
+#. Theme Name of the theme
+#: inc/dashboard/get_started_info.php:71
+#, gp-priority: high
+msgid "Real Estate Realtor"
+msgstr "Real Estate Realtor"
+
+#: inc/customizer.php:2931
+msgid "Footer Widget Text Transform"
+msgstr "Tekst transformatie van footer widget"
+
+#: inc/customizer.php:2916
+msgid "Footer Heading Font Size"
+msgstr "Lettertypegrootte koptekst footer"
+
+#: inc/customizer.php:1079
+msgid "Slider Small Text Icon"
+msgstr "Slider kleine tekst pictogram"
+
+#: inc/customizer.php:1068
+msgid "Add Slider Small Text"
+msgstr "Slider kleine tekst toevoegen"
+
+#: inc/tgm/tgm.php:24
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/tgm/tgm.php:17
+msgid "Ibtana - Ecommerce Product Addons"
+msgstr "Ibtana - Ecommerce Product Addons"
+
+#: inc/tgm/tgm.php:10
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress site bouwer"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) aan het installeren"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatieproces begint. Dit proces kan een tijdje duren op sommige hosts, dus wees geduldig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren van plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn afgerond."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Toon details"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en met succes geactiveerd."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces is begonnen. Dit proces kan een tijdje duren op sommige hosts, dus wees geduldig."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) aan het updaten"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Activering van de plugin mislukt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te activeren."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er werden geen plugins geselecteerd om geactiveerd te worden. Geen actie ondernomen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te worden geüpdatet."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te installeren."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er werden geen plugins geselecteerd om te worden geüpdatet. Geen actie ondernomen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er werden geen plugins geselecteerd om te worden geïnstalleerd. Geen actie ondernomen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activeer"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Update"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installeer"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade bericht van de plugin auteur:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versie"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Bron"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins om te installeren, te updaten of te activeren."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Om er <span class=\"count\">(%s)</span> te activeren"
+msgstr[1] "Om er <span class=\"count\">(%s)</span> te activeren"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Om er <span class=\"count\">(%s)</span> te installeren"
+msgstr[1] "Om er <span class=\"count\">(%s)</span> te installeren"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Vereist update"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actief"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externe bron"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress repository"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Vereist"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Het remote plugin pakket bestaat uit meer dan één bestand, maar de bestanden zijn niet verpakt in een map."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de plugin provider en vraag hen om hun plugin te verpakken volgens de WordPress richtlijnen."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het remote plugin pakket bevat geen map met de gewenste slug en het hernoemen werkte niet."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet worden geüpdatet om compatibel te zijn met je thema."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem voor hulp contact op met de beheerder van deze site."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn een of meer vereiste of aanbevolen plugins om te installeren, te updaten of te activeren."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins geïnstalleerd en met succes geactiveerd. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin niet geactiveerd. Voor dit thema is een hogere versie van %s nodig. Update de plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn met succes geactiveerd:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Terug naar het dashboard"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar vereiste plugins installer"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met het activeren van de plugin"
+msgstr[1] "Beginnen met het activeren van de plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginnen met updaten van de plugin"
+msgstr[1] "Beginnen met updaten van de plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met het installeren van de plugin"
+msgstr[1] "Beginnen met het installeren van de plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel inactief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende vereiste plugins zijn momenteel inactief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet worden geüpdatet naar de nieuwste versie om maximale compatibiliteit met dit thema te garanderen: %1$s."
+msgstr[1] "De volgende plugins moeten worden geüpdatet om hun nieuwste versie voor maximale compatibiliteit met dit thema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Plugin aan het updaten: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Plugin aan het installeren: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: inc/customizer.php:2888
+msgid "scroll"
+msgstr "scrollen"
+
+#: inc/customizer.php:2887
+msgid "fixed"
+msgstr "gefixeerd"
+
+#: inc/customizer.php:2885
+msgid "Footer Background Attatchment"
+msgstr "Footer achtergrond plaatsing"
+
+#: inc/customizer.php:1453
+msgid "Post Sidebar Layout"
+msgstr "Bericht zijbalk lay-out"
+
+#: inc/customizer.php:1437
+msgid "Page Sidebar Layout"
+msgstr "Pagina zijbalk lay-out"
+
+#: inc/customizer.php:3157
+msgid "Copyright Text Color"
+msgstr "Copyright tekstkleur"
+
+#: inc/customizer.php:1392
+msgid "Preloader Background Image"
+msgstr "Achtergrondafbeelding van de voorlader"
+
+#: inc/customizer.php:2157
+msgid "Category Hover Color"
+msgstr "Categorie hoveren kleur"
+
+#: inc/customizer.php:1858
+msgid "Button Settings"
+msgstr "Knop instellingen"
+
+#: inc/customizer.php:3023
+msgid "Back to Top Background Hover Color"
+msgstr "Kleur van achtergrond hoveren terug naar boven"
+
+#: inc/customizer.php:3005
+msgid "Back to Top Icon hover Color"
+msgstr "Terug naar boven pictogram hoveren kleur"
+
+#: inc/customizer.php:2996
+msgid "Back to Top Icon Color"
+msgstr "Kleur van pictogram 'Terug naar boven'"
+
+#: inc/customizer.php:2945
+msgid "Footer Widget Padding"
+msgstr "Footer widget padding"
+
+#: inc/customizer.php:894
+msgid "Submenu Background Hover Color"
+msgstr "Submenu achtergrond hoveren kleur"
+
+#: inc/customizer.php:884
+msgid "Submenu Background Color"
+msgstr "Submenu achtergrondkleur"
+
+#: inc/customizer.php:794
+msgid "Menu Left-Right Padding"
+msgstr "Menu links rechts padding"
+
+#: inc/customizer.php:780
+msgid "Menu Top-Bottom Padding"
+msgstr "Menu boven onder padding"
+
+#: inc/customizer.php:2147
+msgid "Category Color"
+msgstr "Categoriekleur"
+
+#: inc/customizer.php:1893
+msgid "Button Font Weight"
+msgstr "Knop lettertype gewicht"
+
+#: inc/customizer.php:142
+msgid "Important Links"
+msgstr "Belangrijke links"
+
+#: inc/customizer.php:3014
+msgid "Back to Top Background Color"
+msgstr "Achtergrondkleur terug naar boven"
+
+#: inc/customizer.php:756
+msgid "Menu Settings"
+msgstr "Menu instellingen"
+
+#: inc/customizer.php:3092
+msgid "Enable / Disable Copyright"
+msgstr "In-/uitschakelen copyright"
+
+#: inc/customizer.php:2857
+msgid "Enable / Disable Footer"
+msgstr "In-/uitschakelen footer"
+
+#: inc/customizer.php:1153
+msgid "Slider Next Icon"
+msgstr "Slider volgende pictogram"
+
+#: inc/customizer.php:1141
+msgid "Slider Previous Icon"
+msgstr "Slider vorige pictogram"
+
+#: inc/customizer.php:1878
+msgid "Button Text Transform"
+msgstr "Teksttransformatie van knop"
+
+#: inc/customizer.php:2625
+msgid "Single Product Page Layout"
+msgstr "Enkelvoudig product pagina lay-out"
+
+#: inc/customizer.php:2600
+msgid "Shop Page Layout"
+msgstr "Lay-out van de winkelpagina"
+
+#: inc/customizer.php:2372
+msgid "Close Menu Label"
+msgstr "Sluiten menu label"
+
+#: inc/customizer.php:2350
+msgid "Open Menu Label"
+msgstr "Openen menu label"
+
+#: inc/customizer.php:2345
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/single-post.php:62 template-parts/single-post.php:65
+msgid " "
+msgstr " "
+
+#: inc/customizer.php:2250
+msgid "Next Navigation Text"
+msgstr "Volgende navigatietekst"
+
+#: inc/customizer.php:2240
+msgid "Previous Navigation Text"
+msgstr "Vorige navigatietekst"
+
+#: inc/customizer.php:874
+msgid "Submenu Hover Color"
+msgstr "Submenu hoveren kleur"
+
+#: inc/customizer.php:2138
+msgid "Single Post Categories"
+msgstr "Categorieën enkelvoudig bericht"
+
+#: inc/customizer.php:1977
+msgid "Enable / Disable Breadcrumb"
+msgstr "In-/uitschakelen kruimelpad"
+
+#: inc/customizer.php:1359
+msgid "Show / Hide Single Page Breadcrumb"
+msgstr "Toon/verberg kruimelpad enkelvoudige pagina"
+
+#: inc/customizer.php:2443
+msgid "Display Slider Search"
+msgstr "Toon slider zoeken"
+
+#: inc/customizer.php:55
+msgid "Logo Margin  (px)"
+msgstr "Logo marge (px)"
+
+#: inc/customizer.php:642
+msgid "Topbar Padding"
+msgstr "Bovenbalk padding"
+
+#: inc/customizer.php:633
+msgid "Show / Hide Topbar"
+msgstr "Toon/verberg bovenste balk"
+
+#: inc/customizer.php:864
+msgid "Menu Hover Color"
+msgstr "Menu hoveren kleur"
+
+#: inc/customizer.php:854
+msgid "Submenu Color"
+msgstr "Submenu kleur"
+
+#: inc/customizer.php:844
+msgid "Menu Color"
+msgstr "Menu kleur"
+
+#: inc/customizer.php:2382
+msgid "Toggle Button Color"
+msgstr "Toggle knopkleur"
+
+#: inc/customizer.php:3166
+msgid "Copyright Background Color"
+msgstr "Copyright achtergrondkleur"
+
+#: inc/customizer.php:835 inc/customizer.php:1904
+msgid "900"
+msgstr "900"
+
+#: inc/customizer.php:834 inc/customizer.php:1903
+msgid "800"
+msgstr "800"
+
+#: inc/customizer.php:833 inc/customizer.php:1902
+msgid "700"
+msgstr "700"
+
+#: inc/customizer.php:832 inc/customizer.php:1901
+msgid "600"
+msgstr "600"
+
+#: inc/customizer.php:831 inc/customizer.php:1900
+msgid "500"
+msgstr "500"
+
+#: inc/customizer.php:830 inc/customizer.php:1899
+msgid "400"
+msgstr "400"
+
+#: inc/customizer.php:829 inc/customizer.php:1898
+msgid "300"
+msgstr "300"
+
+#: inc/customizer.php:828 inc/customizer.php:1897
+msgid "200"
+msgstr "200"
+
+#: inc/customizer.php:827 inc/customizer.php:1896
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:310
+msgid "Body Font Size"
+msgstr "Body lettertypegrootte"
+
+#: inc/customizer.php:300
+msgid "Body Fonts"
+msgstr "Body lettertypen"
+
+#: inc/customizer.php:288
+msgid "Body Color"
+msgstr "Body kleur"
+
+#: inc/customizer.php:39
+msgid "Logo Padding (px)"
+msgstr "Logo padding (px)"
+
+#: inc/customizer.php:1021
+msgid "Social Icons Size "
+msgstr "Grootte van sociale pictogrammen "
+
+#: inc/dashboard/get_started_info.php:152
+msgid "Buy Premium"
+msgstr "Koop Premium"
+
+#: inc/dashboard/get_started_info.php:148
+msgid "Premium Theme Documentation"
+msgstr "Premium thema documentatie"
+
+#: inc/dashboard/get_started_info.php:147
+msgid "Free Theme Documentation"
+msgstr "Gratis thema documentatie"
+
+#: inc/dashboard/get_started_info.php:145
+msgid "Help Docs"
+msgstr "Hulp documenten"
+
+#: inc/dashboard/get_started_info.php:134
+msgid "Premium Theme Support"
+msgstr "Premium thema ondersteuning"
+
+#: inc/dashboard/get_started_info.php:133
+msgid "Free Theme Support"
+msgstr "Gratis thema ondersteuning"
+
+#: inc/dashboard/get_started_info.php:131
+msgid "Get Support"
+msgstr "Krijg ondersteuning"
+
+#: inc/dashboard/get_started_info.php:120
+msgid "Custom Menu, Colors Editor"
+msgstr "Aangepast menu, kleuren editor"
+
+#: inc/dashboard/get_started_info.php:119
+msgid "Full-width Template"
+msgstr "Volledige breedte template"
+
+#: inc/dashboard/get_started_info.php:118
+msgid "Multiple inner page templates"
+msgstr "Meerdere binnenpagina templates"
+
+#: inc/dashboard/get_started_info.php:117
+msgid "Gallery & Banner functionality"
+msgstr "Galerij & banner functionaliteit"
+
+#: inc/dashboard/get_started_info.php:116
+msgid "Footer Widgets & Editor style"
+msgstr "Footer widgets & editor stijl"
+
+#: inc/dashboard/get_started_info.php:115
+msgid "Customizable Home Page."
+msgstr "Aanpasbare homepage."
+
+#: inc/dashboard/get_started_info.php:114
+msgid "Left and Right Sidebar."
+msgstr "Linker en rechter zijbalk."
+
+#: inc/dashboard/get_started_info.php:113
+msgid "Sticky post & Comment threads."
+msgstr "Sticky bericht & reactie threads."
+
+#: inc/dashboard/get_started_info.php:112
+msgid "Allow to set site title, tagline, logo."
+msgstr "Toestaan om site titel, slogan, logo in te stellen."
+
+#: inc/dashboard/get_started_info.php:111
+msgid "Well sanitized as per WordPress standards."
+msgstr "Goed gesaneerd volgens de normen van WordPress."
+
+#: inc/dashboard/get_started_info.php:110
+msgid "Enable-Disable options on All sections."
+msgstr "In-/uitschakelen opties op alle secties."
+
+#: inc/dashboard/get_started_info.php:109
+msgid "100+ Font Family Options."
+msgstr "100+ lettertypefamilie opties."
+
+#: inc/dashboard/get_started_info.php:108
+msgid "Advanced Color options and color pallets."
+msgstr "Geavanceerde kleuropties en kleurenpaletten."
+
+#: inc/dashboard/get_started_info.php:107
+msgid "Font Awesome integrated."
+msgstr "Font Awesome geïntegreerd."
+
+#: inc/dashboard/get_started_info.php:106
+msgid "Live customize editor for the About US section."
+msgstr "Live aanpassingseditor voor de Over ons sectie."
+
+#: inc/dashboard/get_started_info.php:105
+msgid "Latest post with the image widget."
+msgstr "Nieuwste bericht met de afbeeldingswidget."
+
+#: inc/dashboard/get_started_info.php:104
+msgid "Social icons widget."
+msgstr "Widget voor sociale pictogrammen."
+
+#: inc/dashboard/get_started_info.php:103
+msgid "Testimonial shortcode."
+msgstr "Aanbeveling shortcode."
+
+#: inc/dashboard/get_started_info.php:102
+msgid "Testimonial listing."
+msgstr "Aanbeveling vermeldingen."
+
+#: inc/dashboard/get_started_info.php:101
+msgid "Car Tags(categories) Option"
+msgstr "Optie voor auto tags (categorieën)"
+
+#: inc/dashboard/get_started_info.php:100
+msgid "Car Brand(categories) Option"
+msgstr "Optie voor automerk (categorieën)"
+
+#: inc/dashboard/get_started_info.php:99
+msgid "Brand Listing Section"
+msgstr "Merk vermeldingen sectie"
+
+#: inc/dashboard/get_started_info.php:98
+msgid "Multiple image feature for each property with slider."
+msgstr "Meerdere afbeeldingen functie voor elke eigenschap met slider."
+
+#: inc/dashboard/get_started_info.php:97
+msgid "Car listing Shortcode"
+msgstr "Shortcode voor auto vermeldingen"
+
+#: inc/dashboard/get_started_info.php:96
+msgid "Car listing Shortcode with category"
+msgstr "Auto vermelding shortcode met categorie"
+
+#: inc/dashboard/get_started_info.php:93
+msgid "Pro Theme Features"
+msgstr "Pro thema functies"
+
+#: inc/dashboard/get_started_info.php:88
+msgid "Whether you are looking to create a website for your newly established real estate business or want to show your profile and services online as a real estate agent; you will find this Free Real Estate Realtor WordPress Theme absolutely bang on for the purpose. It is a great choice if you want to try something and see if it looks great for your real estate business or not before you make an investment in its advanced pro version. Creating stunning websites for your real estate firm is no more a matter of investment as this professional theme lets you create a highly intuitive website with all prerequisites to run your business successfully. Responsive is a must these days and our developers know this really well and that is why they have come up with such a design. The layout is extremely flexible to adjust equally well on mobile phones as well as big screens of laptops and desktops.Real estate businesses are held up to very high standards and need a top-quality website for their online functioning."
+msgstr "Of je nu een site wil maken voor je pas opgerichte vastgoedbedrijf of je profiel en diensten online wil laten zien als vastgoedmakelaar; je zult dit gratis Real Estate Realtor WordPress thema absoluut perfect vinden voor het doel. Het is een geweldige keuze als je iets wil proberen en wil zien of het er geweldig uitziet voor je vastgoedbedrijf voordat je investeert in de geavanceerde Pro versie. Het creëren van prachtige sites voor je vastgoedbedrijf is geen kwestie van investering meer, omdat dit professionele thema je in staat stelt een zeer intuïtieve site te maken met alle vereisten om je bedrijf succesvol te runnen. Responsiviteit is tegenwoordig een must en onze ontwikkelaars weten dit heel goed en daarom hebben ze zo'n ontwerp bedacht. De lay-out is uiterst flexibel en past zich even goed aan op mobiele telefoons als op grote schermen van laptops en desktops. Vastgoedbedrijven worden gehouden aan zeer hoge normen en hebben een site van topkwaliteit nodig voor hun online functioneren."
+
+#: inc/dashboard/get_started_info.php:87
+msgid "Pro Theme Description"
+msgstr "Pro thema beschrijving"
+
+#: inc/dashboard/get_started_info.php:82
+msgid "2.) Premium Theme Information."
+msgstr "2.) Informatie over het Premium thema."
+
+#: inc/dashboard/get_started_info.php:71
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/dashboard/get_started_info.php:70 inc/dashboard/get_started_info.php:141
+msgid "your website."
+msgstr "je site."
+
+#: inc/dashboard/get_started_info.php:70 inc/dashboard/get_started_info.php:141
+msgid "Customizing"
+msgstr "Aan het aanpassen"
+
+#: inc/dashboard/get_started_info.php:70 inc/dashboard/get_started_info.php:141
+msgid "Start"
+msgstr "Start"
+
+#: inc/dashboard/get_started_info.php:68
+msgid "Real Estate Realtor is designed for property dealers, property dealing companies, real estate agents, builders, architects, interior designer, estate advisors. You will absolutely love the clean, and responsive layout of this theme that matches the expectations of such businesses. To showcase the crystal clear property images and images related to your work, it has got a retina-ready design. As it utilized a good blend of colors and light and dark combination along with relevant imagery, your website is going to look beautifully professional. It is a free theme giving you plenty of resources to get started with your website in no time. With plenty of personalization options available, it is a breeze to do the changes without implementing any new codes or even modifying the existing ones. CSS animations make the website look more interesting and to get you more traffic, developers have already included SEO-friendly and highly optimized codes to the design. These codes result in faster page load time. Call To Action Button (CTA) adds to the interactive part of your website and also plays a significant role in boosting conversions. It is a Bootstrap framework-based theme having plenty of shortcodes and social media options for you to promote on a bigger scale."
+msgstr "Real Estate Realtor is ontworpen voor vastgoedmakelaars, vastgoedbedrijven, vastgoedagenten, bouwers, architecten, interieurontwerpers en vastgoedadviseurs. Je zult absoluut dol zijn op de schone en responsive lay-out van dit thema die voldoet aan de verwachtingen van dergelijke bedrijven. Om de kristalheldere afbeeldingen van eigendommen en afbeeldingen die verband houden met je werk te presenteren, heeft het een retina klaar ontwerp. Door het gebruik van een goede mix van kleuren en lichte en donkere combinaties, samen met relevante afbeeldingen, zal je site er prachtig professioneel uitzien. Het is een gratis thema dat je veel bronnen biedt om snel aan de slag te gaan met je site. Met tal van personalisatie opties is het een fluitje van een cent om wijzigingen aan te brengen zonder nieuwe codes te implementeren of zelfs de bestaande codes aan te passen. CSS animaties maken de site interessanter en om meer verkeer te genereren, hebben ontwikkelaars al SEO vriendelijke en zeer geoptimaliseerde codes aan het ontwerp toegevoegd. Deze codes zorgen voor een snellere laadtijd van de pagina. De Call To Action knop (CTA) draagt bij aan het interactieve sectie van je site en speelt ook een belangrijke rol bij het verhogen van conversies. Het is een op het Bootstrap framework gebaseerd thema met tal van shortcodes en sociale media-opties om op grotere schaal te promoten."
+
+#: inc/dashboard/get_started_info.php:64
+msgid "1). Setup Real Estate Realtor Theme"
+msgstr "1). Installeer het Real Estate Realtor thema"
+
+#: inc/dashboard/get_started_info.php:57
+msgid "Pro Documentation"
+msgstr "Pro documentatie"
+
+#: inc/dashboard/get_started_info.php:56 inc/dashboard/get_started_info.php:154
+msgid "Buy Pro"
+msgstr "Koop Pro"
+
+#: inc/dashboard/get_started_info.php:55
+msgid "Live Demo"
+msgstr "Live demo"
+
+#: inc/dashboard/get_started_info.php:46
+msgid "Theme created by Buy WP Templates"
+msgstr "Thema gemaakt door Buy WP Templates"
+
+#: inc/dashboard/get_started_info.php:43
+msgid "Congratulations! You are about to use the most easy to use and flexible WordPress theme."
+msgstr "Gefeliciteerd! Je staat op het punt om het meest eenvoudige en flexibele WordPress thema te gebruiken."
+
+#: inc/dashboard/get_started_info.php:41
+msgid "Welcome to Real Estate Realtor"
+msgstr "Welkom bij Real Estate Realtor"
+
+#: inc/dashboard/get_started_info.php:20 inc/dashboard/get_started_info.php:139
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#: inc/dashboard/get_started_info.php:19
+msgid "Take benefit of a variety of features, functionalities, elements, and an exclusive set of customization options to build your own professional realestate website. Please Click on the link below to know the theme setup information."
+msgstr "Maak gebruik van een verscheidenheid aan functies, functionaliteiten, elementen en een exclusieve set aanpassingsopties om je eigen professionele vastgoedsite te bouwen. Klik op de onderstaande link om de thema instellingsinformatie te bekijken."
+
+#: inc/dashboard/get_started_info.php:18
+msgid "Thanks for installing Real Estate Realtor, you rock!"
+msgstr "Bedankt voor het installeren van Real Estate Realtor, je bent geweldig!"
+
+#: inc/dashboard/get_started_info.php:5
+msgid "About Theme"
+msgstr "Over thema"
+
+#: functions.php:673
+msgid "Real Estate Realtor WordPress Theme "
+msgstr "Real Estate Realtor WordPress thema "
+
+#: functions.php:667
+msgid "https://wordpress.org/support/theme/real-estate-realtor/"
+msgstr "https://wordpress.org/support/theme/real-estate-realtor/"
+
+#: functions.php:666
+msgid "https://www.buywptemplates.com/support/"
+msgstr "https://www.buywptemplates.com/support/"
+
+#: functions.php:665
+msgid "https://buywptemplates.com/demo/docs/free-bwt-real-estate-realtor/"
+msgstr "https://buywptemplates.com/demo/docs/free-bwt-real-estate-realtor/"
+
+#: functions.php:664
+msgid "https://buywptemplates.com/demo/docs/bwt-real-estate-realtor-pro/"
+msgstr "https://buywptemplates.com/demo/docs/bwt-real-estate-realtor-pro/"
+
+#: functions.php:663
+msgid "https://www.buywptemplates.com/themes/real-estate-realtor-wordpress-theme/"
+msgstr "https://www.buywptemplates.com/themes/real-estate-realtor-wordpress-theme/"
+
+#: functions.php:662
+msgid "https://www.buywptemplates.com/bwt-real-estate-realtor-pro/"
+msgstr "https://www.buywptemplates.com/bwt-real-estate-realtor-pro/"
+
+#: footer.php:61
+msgid "By Buywptemplate"
+msgstr "Door Buywptemplate"
+
+#: inc/customizer.php:717
+msgid "Add Location Address"
+msgstr "Locatieadres toevoegen"
+
+#: inc/customizer.php:1500
+msgid "Highlight Color 2"
+msgstr "Markeer kleur 2"
+
+#: inc/customizer.php:1490
+msgid "Highlight Color 1"
+msgstr "Markeer kleur 1"
+
+#: inc/customizer.php:1481
+msgid "Theme Color Option"
+msgstr "Optie themakleur"
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "Je bestelling"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Je moet ingelogd zijn om af te rekenen."
+
+#: template-parts/single-post.php:64
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: template-parts/single-post.php:61
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: template-parts/single-post.php:55
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Gepubliceerd in</span><span class=\"post-title\">titel</span>"
+
+#: template-parts/related-posts.php:5
+msgid "Related Post"
+msgstr "Verwant bericht"
+
+#: template-parts/content-audio.php:48 template-parts/content-gallery.php:39
+#: template-parts/content-image.php:33 template-parts/content-video.php:49
+#: template-parts/Post-layouts/layout1.php:27
+#: template-parts/Post-layouts/layout2.php:38
+#: template-parts/Post-layouts/layout3.php:36 template-parts/single-post.php:26
+msgid "% Comments"
+msgstr "% reacties"
+
+#: template-parts/content-audio.php:48 template-parts/content-gallery.php:39
+#: template-parts/content-image.php:33 template-parts/content-video.php:49
+#: template-parts/Post-layouts/layout1.php:27
+#: template-parts/Post-layouts/layout2.php:38
+#: template-parts/Post-layouts/layout3.php:36 template-parts/single-post.php:26
+msgid "0 Comments"
+msgstr "0 reacties"
+
+#: template-parts/content-audio.php:48 template-parts/content-gallery.php:39
+#: template-parts/content-image.php:33 template-parts/content-video.php:49
+#: template-parts/Post-layouts/layout1.php:27
+#: template-parts/Post-layouts/layout2.php:38
+#: template-parts/Post-layouts/layout3.php:36 template-parts/single-post.php:26
+msgid "0 Comment"
+msgstr "0 reactie"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "Archieven"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:11
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#. translators: %s: search term
+#: search.php:22 search.php:43 search.php:66 search.php:89 search.php:123
+#: search.php:144 search.php:166
+msgid "Results For: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: template-parts/content-page.php:31
+msgid "Page"
+msgstr "Pagina"
+
+#. Template Name of the theme
+msgid "Page with Right Sidebar"
+msgstr "Pagina met zijbalk rechts"
+
+#. Template Name of the theme
+msgid "Page with Left Sidebar"
+msgstr "Pagina met zijbalk links"
+
+#: page-template/home-page.php:141
+msgid "Sqft:"
+msgstr "Sqft:"
+
+#: page-template/home-page.php:138
+msgid "Baths:"
+msgstr "Baden:"
+
+#: page-template/home-page.php:135
+msgid "Beds:"
+msgstr "Bedden:"
+
+#: page-template/home-page.php:77
+msgid "Next"
+msgstr "Volgende"
+
+#: page-template/home-page.php:73
+msgid "Previous"
+msgstr "Vorige"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Aangepaste homepage"
+
+#: no-results.php:19
+msgid "Dont worry it happens to the best of us."
+msgstr "Geen zorgen, het gebeurt de besten onder ons."
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here."
+msgstr "Klaar om je eerste bericht te publiceren? Begin hier."
+
+#: inc/icon-changer.php:24
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr "Zoekpictogram"
+
+#: inc/customizer.php:3248
+msgid "Go Pro"
+msgstr "Ga voor Pro"
+
+#: inc/customizer.php:3247
+msgid "Real Estate Realtor Pro"
+msgstr "Real Estate Realtor Pro"
+
+#: inc/customizer.php:2840
+msgid "No"
+msgstr "Nee"
+
+#: inc/customizer.php:2839
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/customizer.php:2837
+msgid "Shop Page Products Navigation"
+msgstr "Navigatie van producten op de winkelpagina"
+
+#: inc/customizer.php:2822
+msgid "Product Box Shadow (px)"
+msgstr "Product box schaduw (px)"
+
+#: inc/customizer.php:2807
+msgid "Product Border Radius (px)"
+msgstr "Product rand radius (px)"
+
+#: inc/customizer.php:2792
+msgid "Product Right Left Padding (px)"
+msgstr "Product padding rechts links (px)"
+
+#: inc/customizer.php:2777
+msgid "Product Top Bottom Padding (px)"
+msgstr "Product boven onder padding (px)"
+
+#: inc/customizer.php:2767
+msgid "Enable / Disable product border"
+msgstr "Product rand in-/uitschakelen"
+
+#: inc/customizer.php:2708
+msgid "Woocommerce Product Sale Position"
+msgstr "WooCommerce positie product uitverkoop"
+
+#: inc/customizer.php:2692
+msgid "Woocommerce Product Sale Left Right Padding"
+msgstr "WooCommerce product uitverkoop links rechts padding"
+
+#: inc/customizer.php:2677
+msgid "Woocommerce Product Sale Top Bottom Padding "
+msgstr "WooCommerce product uitverkoop boven onder padding "
+
+#: inc/customizer.php:2663
+msgid "Woocommerce Product Sale Font Size"
+msgstr "WooCommerce product uitverkoop lettertypegrootte"
+
+#: inc/customizer.php:2648
+msgid "Woocommerce Product Sale Border Radius"
+msgstr "WooCommerce product uitverkoop rand radius"
+
+#: inc/customizer.php:2639
+msgid "Enable / Disable Related product"
+msgstr "Gerelateerd product in-/uitschakelen"
+
+#: inc/customizer.php:2614
+msgid "Enable / Disable product page sidebar"
+msgstr "In-/uitschakelen productpagina zijbalk"
+
+#: inc/customizer.php:2589
+msgid "Enable / Disable shop page sidebar"
+msgstr "In-/uitschakelen zijbalk van de winkelpagina"
+
+#: inc/customizer.php:2578
+msgid "Product per page"
+msgstr "Product per pagina"
+
+#: inc/customizer.php:2562
+msgid "Product per columns"
+msgstr "Product per kolom"
+
+#: inc/customizer.php:2548
+msgid "The below settings are apply on woocommerce pages."
+msgstr "De onderstaande instellingen worden toegepast op WooCommerce pagina's."
+
+#: inc/customizer.php:2547
+msgid "Woocommerce Settings"
+msgstr "WooCommerce instellingen"
+
+#: inc/customizer.php:2540
+msgid "The search page text display when no results are found."
+msgstr "De zoekpagina tekst wordt weergegeven wanneer er geen resultaten worden gevonden."
+
+#: inc/customizer.php:2539
+msgid "No Search Results Text"
+msgstr "Tekst geen zoekresultaten"
+
+#: inc/customizer.php:2535 no-results.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets kwam overeen met je zoektermen. Probeer het opnieuw met enkele andere keywords."
+
+#: inc/customizer.php:2529
+msgid "The search page heading display when no results are found."
+msgstr "De koptekst van de zoekpagina wordt weergegeven wanneer er geen resultaten worden gevonden."
+
+#: inc/customizer.php:2528
+msgid "No Search Results Heading"
+msgstr "Koptekst geen zoekresultaten"
+
+#: inc/customizer.php:2524 no-results.php:10
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: inc/customizer.php:2518
+msgid "404 Button"
+msgstr "404 knop"
+
+#: inc/customizer.php:2508
+msgid "404 Content"
+msgstr "404 inhoud"
+
+#: inc/customizer.php:2498
+msgid "404 Heading"
+msgstr "404 koptekst"
+
+#: inc/customizer.php:2489
+msgid "404 Page Not Found / No Result"
+msgstr "404 pagina niet gevonden / geen resultaat"
+
+#: inc/customizer.php:2483
+msgid "Display Preloader"
+msgstr "Toon voorlader"
+
+#: inc/customizer.php:2473
+msgid "Display Sticky Header"
+msgstr "Toon sticky header"
+
+#: inc/customizer.php:2463
+msgid "Display Scroll To Top"
+msgstr "Toon scrol naar boven"
+
+#: inc/customizer.php:2453
+msgid "Display Sidebar"
+msgstr "Toon zijbalk"
+
+#: inc/customizer.php:2433
+msgid "Display Slider"
+msgstr "Toon slider"
+
+#: inc/customizer.php:2423
+msgid "Display Post Time"
+msgstr "Toon tijd van publiceren"
+
+#: inc/customizer.php:2413
+msgid "Display Post Comment"
+msgstr "Toon bericht reactie"
+
+#: inc/customizer.php:2403
+msgid "Display Post Author"
+msgstr "Toon berichtauteur"
+
+#: inc/customizer.php:2393
+msgid "Display Post Date"
+msgstr "Toon berichtdatum"
+
+#: inc/customizer.php:2328
+msgid "Responsive Media"
+msgstr "Responsive media"
+
+#: inc/customizer.php:3143
+msgid "Copyright Text Padding (px)"
+msgstr "Copyright tekst padding (px)"
+
+#: inc/customizer.php:3128
+msgid "Copyright Font Size (px)"
+msgstr "Copyright lettertype grootte (px)"
+
+#: inc/customizer.php:3113
+msgid "Copyright Text Alignment "
+msgstr "Copyright tekstuitlijning "
+
+#: inc/customizer.php:3103
+msgid "Add some text for footer like copyright etc."
+msgstr "Voeg wat tekst toe voor de footer, zoals copyright enz."
+
+#: inc/customizer.php:3101
+msgid "Copyright Text"
+msgstr "Copyright tekst"
+
+#: inc/customizer.php:3077
+msgid "Back to Top Border Radius (px)"
+msgstr "Terug naar boven rand radius (px)"
+
+#: inc/customizer.php:3063
+msgid "Left Right Scroll Padding (px)"
+msgstr "Scrol padding links rechts (px)"
+
+#: inc/customizer.php:3048
+msgid "Top Bottom Scroll Padding (px)"
+msgstr "Boven onder scrol padding (px)"
+
+#: inc/customizer.php:3038 inc/customizer.php:3118
+msgid "Center Align"
+msgstr "In het midden uitlijnen"
+
+#: inc/customizer.php:3037 inc/customizer.php:3117
+msgid "Right Align"
+msgstr "Rechts uitlijnen"
+
+#: inc/customizer.php:3036 inc/customizer.php:3116
+msgid "Left Align"
+msgstr "Links uitlijnen"
+
+#: inc/customizer.php:3033
+msgid "Back To Top Alignment"
+msgstr "Terug naar boven uitlijning"
+
+#: inc/customizer.php:2982
+msgid "Back To Top Icon Font Size"
+msgstr "Lettertypegrootte van het pictogram 'Terug naar boven'"
+
+#: inc/customizer.php:2970
+msgid "Back to Top Icon"
+msgstr "Terug naar boven pictogram"
+
+#: inc/customizer.php:2960
+msgid "Enable / Disable Back To Top"
+msgstr "In-/uitschakelen terug naar boven"
+
+#: inc/customizer.php:2906 inc/customizer.php:3276
+msgid "Four"
+msgstr "Vier"
+
+#: inc/customizer.php:2905 inc/customizer.php:3275
+msgid "Three"
+msgstr "Drie"
+
+#: inc/customizer.php:2904 inc/customizer.php:3274
+msgid "Two"
+msgstr "Twee"
+
+#: inc/customizer.php:2903 inc/customizer.php:3273
+msgid "One"
+msgstr "Eén"
+
+#: inc/customizer.php:2901
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "Selecteer het aantal widget gebieden dat je in de footer wil. Ga daarna naar Weergave > Widgets en voeg je widgets toe."
+
+#: inc/customizer.php:2899
+msgid "Footer widget area"
+msgstr "Footer widget gebied"
+
+#: inc/customizer.php:2875
+msgid "Footer Background Image"
+msgstr "Footer achtergrondafbeelding"
+
+#: inc/customizer.php:2866
+msgid "Footer Background Color"
+msgstr "Footer achtergrondkleur"
+
+#: inc/customizer.php:2847
+msgid "Footer Text"
+msgstr "Footer tekst"
+
+#: inc/customizer.php:1342
+msgid "Select properties category "
+msgstr "Selecteer eigendom categorie "
+
+#: inc/customizer.php:1318
+msgid "Properties Tab Text "
+msgstr "Eigendommen tab tekst "
+
+#: inc/customizer.php:1303
+msgid "No of Tabs to show"
+msgstr "Aantal tabs om te tonen"
+
+#: inc/customizer.php:1293
+msgid "Section Text"
+msgstr "Sectie tekst"
+
+#: inc/customizer.php:1283
+msgid "Section Heading"
+msgstr "Koptekst van sectie"
+
+#: inc/customizer.php:1304
+msgid "Increase the number of tab and publish the settings and then refresh the page then the properties will increase."
+msgstr "Verhoog het aantal tabs en publiceer de instellingen en vernieuw vervolgens de pagina, dan zullen de eigendommen toenemen."
+
+#: inc/customizer.php:1274
+msgid "Popular Properties Section"
+msgstr "Populaire eigendommen sectie"
+
+#: inc/customizer.php:1263
+msgid "Slider Slide Speed"
+msgstr "Snelheid van de slider"
+
+#: inc/customizer.php:1245
+msgid "Slider Content Limit"
+msgstr "Slider inhoud beperking"
+
+#: inc/customizer.php:1228
+msgid "Left Right Slider Content Spacing"
+msgstr "Slider inhoud ruimte links rechts"
+
+#: inc/customizer.php:1214
+msgid "Top Bottom Slider Content Spacing"
+msgstr "Slider inhoud ruimte boven onder"
+
+#: inc/customizer.php:1204
+msgid "Slider Height"
+msgstr "Slider hoogte"
+
+#: inc/customizer.php:1200
+msgid "550"
+msgstr "550"
+
+#: inc/customizer.php:1195 inc/customizer.php:2711
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer.php:1194 inc/customizer.php:2712
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer.php:1193
+msgid "Center"
+msgstr "Midden"
+
+#: inc/customizer.php:1190
+msgid "Slider Content Layout"
+msgstr "Slider inhoud lay-outs"
+
+#: inc/customizer.php:1165
+msgid "Slider Image Opacity"
+msgstr "Ondoorzichtigheid slider afbeelding"
+
+#: inc/customizer.php:1130
+msgid "Slider Image Overlay Color"
+msgstr "Slider afbeelding overlay kleur"
+
+#: inc/customizer.php:1121
+msgid "Enable / Disable Search"
+msgstr "In-/uitschakelen zoeken"
+
+#: inc/customizer.php:1111
+msgid "Enable / Disable Slider Image Overlay"
+msgstr "In-/uitschakelen slider afbeelding overlay"
+
+#: inc/customizer.php:1101
+msgid "Enable / Disable Slider Text"
+msgstr "In-/uitschakelen slider tekst"
+
+#: inc/customizer.php:1091
+msgid "Enable / Disable Slider Heading"
+msgstr "In-/uitschakelen slider koptekst"
+
+#: inc/customizer.php:1056
+msgid "Slider image size (1500 x 600)"
+msgstr "Afmetingen afbeelding slider (1500 x 540)"
+
+#: inc/customizer.php:1055
+msgid "Select Slide Image Page"
+msgstr "Selecteer slide afbeelding pagina"
+
+#: inc/customizer.php:1044
+msgid "Enable / Disable slider"
+msgstr "In-/uitschakelen slider"
+
+#: inc/customizer.php:1033
+msgid "Slider Section"
+msgstr "Slider sectie"
+
+#: inc/customizer.php:1011
+msgid "Add Pintrest Link"
+msgstr "Pinterest link toevoegen"
+
+#: inc/customizer.php:1000
+msgid "Pintrest Icon"
+msgstr "Pintrest pictogram"
+
+#: inc/customizer.php:989
+msgid "Add Instagram Link"
+msgstr "Instagram link toevoegen"
+
+#: inc/customizer.php:978
+msgid "Instagram Icon"
+msgstr "Instagram pictogram"
+
+#: inc/customizer.php:967
+msgid "Add Linkdin Link"
+msgstr "LinkedIn link toevoegen"
+
+#: inc/customizer.php:956
+msgid "Linkdin Icon"
+msgstr "LinkedIn pictogram"
+
+#: inc/customizer.php:945
+msgid "Add Twitter Link"
+msgstr "Twitter link toevoegen"
+
+#: inc/customizer.php:934
+msgid "Twitter Icon"
+msgstr "Twitter pictogram"
+
+#: inc/customizer.php:923
+msgid "Add Facebook Link"
+msgstr "Facebook link toevoegen"
+
+#: inc/customizer.php:912
+msgid "Facebook Icon"
+msgstr "Facebook pictogram"
+
+#: inc/customizer.php:901
+msgid "Social Media Section"
+msgstr "Sociale media sectie"
+
+#: inc/customizer.php:2360
+msgid "Responsive Close Menu Icon"
+msgstr "Responsive sluit menu pictogram"
+
+#: inc/customizer.php:2338
+msgid "Responsive Open Menu Icon"
+msgstr "Responsive open menu pictogram"
+
+#: inc/customizer.php:749
+msgid "Add Button Link"
+msgstr "Knop link toevoegen"
+
+#: inc/customizer.php:706
+msgid "Location Icon"
+msgstr "Locatie pictogram"
+
+#: inc/customizer.php:695
+msgid "Add Email Address"
+msgstr "Een e-mailadres toevoegen"
+
+#: inc/customizer.php:684
+msgid "Email Icon"
+msgstr "E-mail pictogram"
+
+#: inc/customizer.php:668
+msgid "Sticky Header Padding"
+msgstr "Sticky header padding"
+
+#: inc/customizer.php:659
+msgid "Enable / Disable Sticky Header"
+msgstr "In-/uitschakelen sticky header"
+
+#: inc/customizer.php:824
+msgid "Menu Font Weight"
+msgstr "Menu lettertype dikte"
+
+#: inc/customizer.php:814 inc/customizer.php:1883 inc/customizer.php:2936
+msgid "Capitalize"
+msgstr "Omzetten naar hoofdletter"
+
+#: inc/customizer.php:813 inc/customizer.php:1882 inc/customizer.php:2935
+msgid "Lowercase"
+msgstr "Kleine letter"
+
+#: inc/customizer.php:812 inc/customizer.php:1881 inc/customizer.php:2934
+msgid "Uppercase"
+msgstr "Hoofdletter"
+
+#: inc/customizer.php:809
+msgid "Menu Text Transform"
+msgstr "Menutekst transformeren"
+
+#: inc/customizer.php:766
+msgid "Menu Font Size "
+msgstr "Menu lettertype grootte "
+
+#: inc/customizer.php:620
+msgid "Add contact us here"
+msgstr "Contact met ons opnemen hier toevoegen"
+
+#: inc/customizer.php:619
+msgid "Topbar"
+msgstr "Bovenbalk"
+
+#: inc/customizer.php:2317
+msgid "Content Limit"
+msgstr "Inhoud beperking"
+
+#: inc/customizer.php:2307
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/customizer.php:2306
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/customizer.php:2303
+msgid "Post Taxonomies"
+msgstr "Bericht taxonomieën"
+
+#: inc/customizer.php:2287
+msgid "Related Post Count"
+msgstr "Gerelateerde berichten aantal"
+
+#: inc/customizer.php:2275
+msgid "Add Section Title"
+msgstr "Sectietitel toevoegen"
+
+#: inc/customizer.php:2266
+msgid "Enable / Disable Related Post"
+msgstr "In-/uitschakelen gerelateerd bericht"
+
+#: inc/customizer.php:2256
+msgid "Related Post Settings"
+msgstr "Gerelateerd bericht instellingen"
+
+#: inc/customizer.php:2230
+msgid "Enable / Disable Single Post Pagination"
+msgstr "In-/uitschakelen paginering enkelvoudig bericht"
+
+#: inc/customizer.php:2220
+msgid "Comment Form Button Text"
+msgstr "Reactieformulier knoptekst"
+
+#: inc/customizer.php:2210
+msgid "Comment Form Heading Text"
+msgstr "Reactieformulier koptekst tekst"
+
+#: inc/customizer.php:2195
+msgid "Comment Form Width"
+msgstr "Breedte van het reactieformulier"
+
+#: inc/customizer.php:2182
+msgid "Single Post Meta Box Seperator"
+msgstr "Enkelvoudig bericht meta box scheidingsteken"
+
+#: inc/customizer.php:2168
+msgid "Select different Single post sidebar layout"
+msgstr "Selecteer een ander zijbalk lay-out voor enkelvoudig bericht"
+
+#: inc/customizer.php:2085
+msgid "Enable / Disable Featured image"
+msgstr "In-/uitschakelen uitgelichte afbeelding"
+
+#: inc/customizer.php:2075
+msgid "Enable / Disable post comment"
+msgstr "In-/uitschakelen bericht reactie"
+
+#: inc/customizer.php:2063
+msgid "Single Post Time Icon"
+msgstr "Enkelvoudig bericht tijd pictogram"
+
+#: inc/customizer.php:2128
+msgid "Enable / Disable Tags"
+msgstr "In-/uitschakelen tags"
+
+#: inc/customizer.php:2041
+msgid "Single Post Comment Icon"
+msgstr "Enkelvoudig bericht reactie pictogram"
+
+#: inc/customizer.php:2019
+msgid "Single Post Author Icon"
+msgstr "Enkelvoudig bericht auteur pictogram"
+
+#: inc/customizer.php:1997
+msgid "Single Post Date Icon"
+msgstr "Enkelvoudig bericht datum pictogram"
+
+#: inc/customizer.php:1967
+msgid "Single Post Settings"
+msgstr "Instellingen voor enkelvoudig bericht"
+
+#: inc/customizer.php:1624
+msgid "By Without Block"
+msgstr "Op zonder blok"
+
+#: inc/customizer.php:1623
+msgid "By Block"
+msgstr "Op blok"
+
+#: inc/customizer.php:1620
+msgid "Blog Post Shown"
+msgstr "Blogbericht weergegeven"
+
+#: inc/customizer.php:1853
+msgid "Next / Previous"
+msgstr "Volgende/vorige"
+
+#: inc/customizer.php:1852
+msgid "Numeric Pagination"
+msgstr "Numerieke paginering"
+
+#: inc/customizer.php:1850
+msgid "Post Pagination"
+msgstr "Bericht paginering"
+
+#: inc/customizer.php:1840
+msgid "Both Top & Bottom"
+msgstr "Beide boven & onder"
+
+#: inc/customizer.php:1839
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: inc/customizer.php:1838
+msgid "Top"
+msgstr "Bovenkant"
+
+#: inc/customizer.php:1836
+msgid "Post Pagination Position"
+msgstr "Bericht paginering positie"
+
+#: inc/customizer.php:1825
+msgid "Enable / Disable Blog Page Pagination"
+msgstr "In-/uitschakelen blogpagina paginering"
+
+#: inc/customizer.php:1956 inc/customizer.php:2752
+msgid "Button Border Radius (px)"
+msgstr "Knop rand radius (px)"
+
+#: inc/customizer.php:1941 inc/customizer.php:2737
+msgid "Button Right Left Padding (px)"
+msgstr "Knop rechts links padding (px)"
+
+#: inc/customizer.php:1926 inc/customizer.php:2722
+msgid "Button Top Bottom Padding (px)"
+msgstr "Knop boven onder padding (px)"
+
+#: inc/customizer.php:728 inc/customizer.php:1914
+msgid "Button Icon"
+msgstr "Knop pictogram"
+
+#: inc/customizer.php:739 inc/customizer.php:1867
+msgid "Add Button Text"
+msgstr "Knoptekst toevoegen"
+
+#: inc/customizer.php:1863
+msgid "View More"
+msgstr "Bekijk meer"
+
+#: inc/customizer.php:1814 inc/customizer.php:2184
+msgid "Here you can add the seperator for meta box. e.g. \"|\",  \",\", \"/\", etc. "
+msgstr "Hier kun je het scheidingsteken toevoegen voor de meta box. Bijvoorbeeld \"|\", \",\", \"/\", enz. "
+
+#: inc/customizer.php:1812
+msgid "Meta Box"
+msgstr "Meta box"
+
+#: inc/customizer.php:1801
+msgid "Post Excerpt Suffix"
+msgstr "Bericht samenvatting achtervoegsel"
+
+#: inc/customizer.php:1797
+msgid "[...]"
+msgstr "[...]"
+
+#: inc/customizer.php:1792
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/customizer.php:1791
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: inc/customizer.php:1788
+msgid "Content Settings"
+msgstr "Inhoud instellingen"
+
+#: inc/customizer.php:1771
+msgid "Blog Post Content Limit"
+msgstr "Beperking inhoud blogbericht"
+
+#: inc/customizer.php:1752
+msgid "Post Featured Image Custom Height"
+msgstr "Bericht uitgelichte afbeelding aangepaste hoogte"
+
+#: inc/customizer.php:1737
+msgid "Post Featured Image Custom Width"
+msgstr "Bericht uitgelichte afbeelding breedte"
+
+#: inc/customizer.php:1726
+msgid "Custom"
+msgstr "Aangepast"
+
+#: inc/customizer.php:1723
+msgid "Post Featured Image Dimention"
+msgstr "Bericht uitgelichte afbeelding dimensie"
+
+#: inc/customizer.php:1707
+msgid "Color Post Custom Height"
+msgstr "Kleur bericht aangepaste hoogte"
+
+#: inc/customizer.php:1692
+msgid "Color Post Custom Width"
+msgstr "Kleur bericht aangepaste breedte"
+
+#: inc/customizer.php:1681
+msgid "Post Color"
+msgstr "Bericht kleur"
+
+#: inc/customizer.php:1638
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer.php:1637
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/customizer.php:1636
+msgid "Image"
+msgstr "Afbeelding"
+
+#: inc/customizer.php:1634
+msgid "Post Image Options"
+msgstr "Bericht afbeelding opties"
+
+#: inc/customizer.php:1608
+msgid "Post Time Icon"
+msgstr "Bericht tijd pictogram"
+
+#: inc/customizer.php:1598 inc/customizer.php:2053
+msgid "Enable / Disable Time"
+msgstr "In-/uitschakelen tijd"
+
+#: inc/customizer.php:1586
+msgid "Post Comment Icon"
+msgstr "Bericht reactie pictogram"
+
+#: inc/customizer.php:1576 inc/customizer.php:2031
+msgid "Enable / Disable Comments"
+msgstr "In-/uitschakelen reacties"
+
+#: inc/customizer.php:1564
+msgid "Post Author Icon"
+msgstr "Bericht auteur pictogram"
+
+#: inc/customizer.php:1554 inc/customizer.php:2009
+msgid "Enable / Disable Author"
+msgstr "In-/uitschakelen auteur"
+
+#: inc/customizer.php:1542
+msgid "Post Date Icon"
+msgstr "Pictogram berichtdatum"
+
+#: inc/customizer.php:1532 inc/customizer.php:1987
+msgid "Enable / Disable Date "
+msgstr "In-/uitschakelen datum "
+
+#: inc/customizer.php:1518
+msgid "Here you can change the 3 different layouts of post"
+msgstr "Hier kun je de 3 verschillende lay-outs van een bericht wijzigen"
+
+#: inc/customizer.php:1517
+msgid "Post Layouts"
+msgstr "Bericht lay-outs"
+
+#: inc/customizer.php:1507
+msgid "Post General Settings"
+msgstr "Algemene instellingen bericht"
+
+#: inc/customizer.php:1666 inc/customizer.php:2112
+msgid "Featured Image Shadow"
+msgstr "Uitgelichte afbeelding schaduw"
+
+#: inc/customizer.php:1648 inc/customizer.php:2094
+msgid "Featured Image Border Radius"
+msgstr "Uitgelichte afbeelding randradius"
+
+#: inc/customizer.php:1475
+msgid "Sidebar 1/4"
+msgstr "Zijbalk 1/4"
+
+#: inc/customizer.php:1474
+msgid "Sidebar 1/3"
+msgstr "Zijbalk 1/3"
+
+#: inc/customizer.php:1471
+msgid "Sidebar Size Option"
+msgstr "Optie voor zijbalk grootte"
+
+#: inc/customizer.php:1442 inc/customizer.php:1461 inc/customizer.php:2173
+#: inc/customizer.php:2604 inc/customizer.php:2629
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/customizer.php:1441 inc/customizer.php:1460 inc/customizer.php:2172
+#: inc/customizer.php:2603 inc/customizer.php:2628
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/customizer.php:1459
+msgid "Grid Layout"
+msgstr "Raster lay-out"
+
+#: inc/customizer.php:1458
+msgid "Four Columns"
+msgstr "Vier kolommen"
+
+#: inc/customizer.php:1457
+msgid "Three Columns"
+msgstr "Drie kolommen"
+
+#: inc/customizer.php:1440 inc/customizer.php:1456 inc/customizer.php:2171
+msgid "One Column"
+msgstr "Eén kolom"
+
+#: inc/customizer.php:1426
+msgid "Box Layout"
+msgstr "Box lay-out"
+
+#: inc/customizer.php:1425
+msgid "Container Layout"
+msgstr "Container lay-out"
+
+#: inc/customizer.php:1424 inc/customizer.php:1725
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/customizer.php:1421
+msgid "Here you can change the Width layout. "
+msgstr "Hier kun je de breedte van de lay-out wijzigen. "
+
+#: inc/customizer.php:1420
+msgid "Container Box"
+msgstr "Container box"
+
+#: inc/customizer.php:1410
+msgid "Preloader Icon Color"
+msgstr "Voorlader pictogram kleur"
+
+#: inc/customizer.php:1401
+msgid "Preloader Background Color"
+msgstr "Achtergrondkleur voorlader"
+
+#: inc/customizer.php:1383
+msgid "Second Preloader Type"
+msgstr "Tweede voorlader type"
+
+#: inc/customizer.php:1382
+msgid "First Preloader Type"
+msgstr "Eerste voorlader type"
+
+#: inc/customizer.php:1379
+msgid "Preloader Types"
+msgstr "Voorlader typen"
+
+#: inc/customizer.php:1369
+msgid "Enable / Disable Preloader"
+msgstr "Voorlader in-/uitschakelen"
+
+#: inc/customizer.php:1349
+msgid "Layout Settings"
+msgstr "Lay-out instellingen"
+
+#: inc/customizer.php:611
+msgid "H6 Font Size"
+msgstr "H6 lettertype grootte"
+
+#: inc/customizer.php:600
+msgid "H6 Fonts"
+msgstr "H6 lettertypen"
+
+#: inc/customizer.php:587
+msgid "H6 Color"
+msgstr "H6 kleur"
+
+#: inc/customizer.php:575
+msgid "H5 Font Size"
+msgstr "H5 lettertype grootte"
+
+#: inc/customizer.php:564
+msgid "H5 Fonts"
+msgstr "H5 lettertypen"
+
+#: inc/customizer.php:551
+msgid "H5 Color"
+msgstr "H5 kleur"
+
+#: inc/customizer.php:539
+msgid "H4 Font Size"
+msgstr "H4 lettertype grootte"
+
+#: inc/customizer.php:528
+msgid "H4 Fonts"
+msgstr "H4 lettertypen"
+
+#: inc/customizer.php:515
+msgid "H4 Color"
+msgstr "H4 kleur"
+
+#: inc/customizer.php:503
+msgid "H3 Font Size"
+msgstr "H3 lettertype grootte"
+
+#: inc/customizer.php:492
+msgid "H3 Fonts"
+msgstr "H3 lettertypen"
+
+#: inc/customizer.php:478
+msgid "H3 Color"
+msgstr "H3 kleur"
+
+#: inc/customizer.php:466
+msgid "H2 Font Size"
+msgstr "H2 lettertype grootte"
+
+#: inc/customizer.php:455
+msgid "h2 Fonts"
+msgstr "h2 lettertypen"
+
+#: inc/customizer.php:441
+msgid "h2 Color"
+msgstr "h2 kleur"
+
+#: inc/customizer.php:429
+msgid "H1 Font Size"
+msgstr "H1 lettertype grootte"
+
+#: inc/customizer.php:418
+msgid "H1 Fonts"
+msgstr "H1 lettertypen"
+
+#: inc/customizer.php:405
+msgid "H1 Color"
+msgstr "H1 kleur"
+
+#: inc/customizer.php:394
+msgid "\"li\" Tag Fonts"
+msgstr "\"li\" tag lettertypen"
+
+#: inc/customizer.php:381
+msgid "\"li\" Tag Color"
+msgstr "\"li\" tag kleur"
+
+#: inc/customizer.php:370
+msgid "\"a\" Tag Fonts"
+msgstr "\"a\" tag lettertypen"
+
+#: inc/customizer.php:357
+msgid "\"a\" Tag Color"
+msgstr "\"a\" tag kleur"
+
+#: inc/customizer.php:345
+msgid "Paragraph Font Size"
+msgstr "Paragraaf lettertype grootte"
+
+#: inc/customizer.php:335
+msgid "Paragraph Fonts"
+msgstr "Paragraaf lettertypen"
+
+#: inc/customizer.php:322
+msgid "Paragraph Color"
+msgstr "Paragraaf kleur"
+
+#: inc/customizer.php:278
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/customizer.php:179
+msgid "Description of what this panel does."
+msgstr "Beschrijving van wat dit paneel doet."
+
+#: inc/customizer.php:178
+msgid "Theme Settings"
+msgstr "Thema instellingen"
+
+#: inc/customizer.php:136
+msgid "Without Background Skin"
+msgstr "Zonder achtergrondskin"
+
+#: inc/customizer.php:135
+msgid "With Background Skin"
+msgstr "Met achtergrond skin"
+
+#: inc/customizer.php:132
+msgid "Here you can add the background skin along with the background image."
+msgstr "Hier kun je de achtergrondskin toevoegen samen met de achtergrondafbeelding."
+
+#: inc/customizer.php:131
+msgid "Background Skin"
+msgstr "Achtergrond skin"
+
+#: inc/customizer.php:121
+msgid "Site logo inline with site title"
+msgstr "Site logo in lijn met de titel van de site"
+
+#: inc/customizer.php:106
+msgid "Site Tagline Font Size (px)"
+msgstr "Lettertypegrootte van de site slogan (px)"
+
+#: inc/customizer.php:96
+msgid "Enable / Disable Site Tagline"
+msgstr "In-/uitschakelen site slogan"
+
+#: inc/customizer.php:81
+msgid "Site Title Font Size (px)"
+msgstr "Lettertypegrootte van de sitetitel (px)"
+
+#: inc/customizer.php:71
+msgid "Enable / Disable Site Title"
+msgstr "In-/uitschakelen site titel"
+
+#: inc/customizer.php:23
+msgid "Logo Sizer"
+msgstr "Logo sizer"
+
+#: inc/contact.php:86
+msgid "Contact Form Shortcode:"
+msgstr "Contactformulier shortcode:"
+
+#: inc/contact.php:82
+msgid "Latitude:"
+msgstr "Breedtegraad:"
+
+#: inc/contact.php:78
+msgid "Longitude:"
+msgstr "Lengtegraad:"
+
+#: inc/contact.php:74
+msgid "Opening Time:"
+msgstr "Openingstijd:"
+
+#: inc/contact.php:70
+msgid "Address:"
+msgstr "Adres:"
+
+#: inc/contact.php:66
+msgid "Email id:"
+msgstr "E-mail id:"
+
+#: inc/contact.php:62
+msgid "Phone Number:"
+msgstr "Telefoonnummer:"
+
+#: inc/contact.php:58
+msgid "Heading:"
+msgstr "Koptekst:"
+
+#: inc/contact.php:33
+msgid "Opening Time: "
+msgstr "Openingstijd: "
+
+#: inc/contact.php:32
+msgid "Address: "
+msgstr "Adres: "
+
+#: inc/contact.php:31
+msgid "Email ID: "
+msgstr "E-mail ID: "
+
+#: inc/contact.php:30
+msgid "Phone No: "
+msgstr "Telefoonnummer: "
+
+#: inc/contact.php:11
+msgid "Widget for Contact Us section"
+msgstr "Widget voor Neem contact met ons op sectie"
+
+#: inc/contact.php:10
+msgid "Contact Us"
+msgstr "Neem contact op"
+
+#: inc/about.php:103
+msgid "Image Url:"
+msgstr "Afbeelding URL:"
+
+#: inc/about.php:100
+msgid "Button Url:"
+msgstr "Knop URL:"
+
+#: inc/about.php:96
+msgid "Button Text:"
+msgstr "Tekst van de knop:"
+
+#: inc/about.php:92
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/about.php:88
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/about.php:84
+msgid "Linkedin:"
+msgstr "LinkedIn:"
+
+#: inc/about.php:80
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/about.php:76
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/about.php:72
+msgid "Description:"
+msgstr "Beschrijving:"
+
+#: inc/about.php:68
+msgid "Author Name:"
+msgstr "Auteursnaam:"
+
+#: inc/about.php:40
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/about.php:39
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/about.php:38
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/about.php:37
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/about.php:36
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/about.php:9
+msgid "Display short information about yourself in sidebar or in footer of your website."
+msgstr "Toon beknopte informatie over jezelf in de zijbalk of in de footer van je site."
+
+#: inc/about.php:8
+msgid "About us"
+msgstr "Over ons"
+
+#: image.php:40 image.php:76 image.php:111 image.php:146 image.php:184
+#: image.php:222 image.php:259
+msgid "Edit"
+msgstr "Bewerk"
+
+#: image.php:35 image.php:71 image.php:106 image.php:141 image.php:179
+#: image.php:217 image.php:254 template-parts/content-page.php:27
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: header.php:115 inc/customizer.php:2367
+msgid "Close Menu"
+msgstr "Sluit menu"
+
+#: header.php:100
+msgid "Open Menu"
+msgstr "Open menu"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: functions.php:613
+msgid "Sqft"
+msgstr "Sqft"
+
+#: functions.php:605
+msgid "Bathrooms"
+msgstr "Badkamers"
+
+#: functions.php:597
+msgid "Bedrooms"
+msgstr "Slaapkamers"
+
+#: functions.php:589
+msgid "Property For Sale or Rent"
+msgstr "Eigendom te koop of te huur"
+
+#: functions.php:581
+msgid "Property Amount"
+msgstr "Eigendom bedrag"
+
+#: functions.php:560
+msgid "Popular Properties Feilds"
+msgstr "Populaire eigendom velden"
+
+#: functions.php:111
+msgid "Footer Widget "
+msgstr "Footer widget "
+
+#: functions.php:98
+msgid "Third Column Sidebar"
+msgstr "Derde kolom zijbalk"
+
+#: functions.php:88
+msgid "Posts and Pages Sidebar"
+msgstr "Berichten en pagina's zijbalk"
+
+#: functions.php:79 functions.php:89 functions.php:99
+msgid "Appears on posts and pages"
+msgstr "Verschijnt op berichten en pagina's"
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr "Blog zijbalk"
+
+#: functions.php:50 header.php:104
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: footer.php:10 footer.php:12 footer.php:14
+msgid "Back to Top"
+msgstr "Terug naar boven"
+
+#: comments.php:68 inc/customizer.php:2215
+msgid "Post Comment"
+msgstr "Plaats een reactie"
+
+#: comments.php:67 inc/customizer.php:2205
+msgid "Leave a Reply"
+msgstr "Laat een antwoord achter"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:25
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:18
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Een gedachte over &ldquo;%s&rdquo;"
+
+#: 404.php:15 inc/customizer.php:2514 no-results.php:21
+msgid "Back to Home Page"
+msgstr "Terug naar homepage"
+
+#: 404.php:12 inc/customizer.php:2504
+msgid "Looks like you have taken a wrong turn. Dont worry it happens to the best of us."
+msgstr "Het lijkt erop dat je een verkeerde afslag hebt genomen. Maak je geen zorgen het overkomt de besten van ons."
+
+#: 404.php:11 inc/customizer.php:2494
+msgid "404 Not Found"
+msgstr "404 niet gevonden"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.buywptemplates.com"
+msgstr "https://www.buywptemplates.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Buywptemplates"
+msgstr "Buywptemplates"
+
+#. Theme URI of the theme
+#: functions.php:669
+#, gp-priority: low
+msgid "https://www.buywptemplates.com/themes/free-real-estate-realtor-wordpress-theme/"
+msgstr "https://www.buywptemplates.com/themes/free-real-estate-realtor-wordpress-theme/"

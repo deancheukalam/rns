@@ -1,0 +1,110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WorkPress\n"
+"POT-Creation-Date: 2018-07-10 18:12+0530\n"
+"PO-Revision-Date: 2018-07-10 18:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: footer.php:23
+msgid "Copyright @ 2018 - RAMBO Powered By "
+msgstr ""
+
+#: footer.php:23
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:35
+msgid ""
+"Click the large blue button to start the dummy data import process.</br></"
+"br>Please be patient while WordPress imports all the content.</br></br>\n"
+"\t\t\t<h3>Recommended Plugins</h3> WorkPress theme supports the following "
+"plugins:</br> </br><li> <a href=\"https://wordpress.org/plugins/contact-"
+"form-7/\"> Contact Form 7</a></li> <li> <a href=\"https://wordpress.org/"
+"plugins/woocommerce/\"> WooCommerce </a> </li><li> <a href=\"https://"
+"wordpress.org/plugins/spoontalk-social-media-icons-widget/\"> Spoon Talk "
+"Social Media Icons </a></li>"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:6
+msgid "Homepage Service section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:8
+msgid "Use the Page/Service Widget to add service-type content."
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:17
+msgid "Homepage Project section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:19
+msgid "Use the Project Widget to add project-type content."
+msgstr ""
+
+#: header.php:44
+msgid "R<small>ambo</small>"
+msgstr ""
+
+#: index-service.php:50 index-service.php:174
+msgid "Incredibly Flexible"
+msgstr ""
+
+#: index-service.php:61 index-service.php:174
+msgid "Powerful Admin"
+msgstr ""
+
+#: index-service.php:72 index-service.php:174
+msgid "Easy To Use"
+msgstr ""
+
+#: index-service.php:83 index-service.php:174
+msgid "Responsive Design"
+msgstr ""
+
+#: index-service.php:179
+msgid "Read More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WorkPress"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/workpress-details-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WorkPress is an ideal WordPress theme for those who wish to create an "
+"impressive web presence. WorkPress is easy to use, providing everything you "
+"need to create a great looking website. It is professional, smooth and sleek "
+"with a clean modern layout, suitable for almost any business type: agency, "
+"freelance, blog, startup, portfolio, corporate, food, fashion, law, digital "
+"media agency, architecture, real estate, etc. The theme is developed using "
+"the latest Bootstrap CSS framework that makes it friendly for all modern "
+"devices like mobiles, tablets, and laptops."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr ""

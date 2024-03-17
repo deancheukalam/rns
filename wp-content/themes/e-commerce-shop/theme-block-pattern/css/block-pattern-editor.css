@@ -1,0 +1,58 @@
+.banner-btn .wp-block-button__link,
+.product-sec-btn .wp-block-button__link {
+    color: #fff !important;
+    border: none;
+    padding: 13px 13px;
+    font-weight: 600;
+}
+.product-section img {
+	width: 100%;
+}
+.banner-section h1,.banner-section p,
+.banner-btn a,.product-sec-btn a,.product-section h2,
+.service-section p,.service-para {
+	font-family: Roboto;
+}
+.banner-btn .wp-block-button__link:hover,
+.product-sec-btn .wp-block-button__link:hover {
+	color: #0b5ead !important;
+    background: #fdd922 !important;
+    border:#fdd922 !important;
+}
+.category.wp-block {
+	padding: 16px !important;
+	font-weight: 600;
+}
+.categories-section .category:before {
+	content: "\f0c9";
+	font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    color: #fff;
+    margin-right: 9px;
+} 
+.categories-section .wp-block {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+.categories-section ul.wc-block-product-categories-list {
+	margin-left: 0px !important;
+	list-style: none !important;
+}
+.categories-section ul li a {
+	text-decoration: none !important;
+	color: #000 !important;
+}
+.categories-section {
+	box-shadow: 0px 4px 4px rgb(0 0 0 / 30%);
+}
+ .banner-categories-section .wp-block {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+.service-para  {
+	font-weight: 600;
+	font-size: 20px !important;
+}
+.service-section {
+	font-weight: 600;
+}

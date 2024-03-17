@@ -1,0 +1,366 @@
+# Translation of Themes - Hemingway in Dutch
+# This file is distributed under the same license as the Themes - Hemingway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-24 11:32:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Hemingway\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Hemingway is a clean and beautiful two-column theme for bloggers. It features a responsive design, retina-ready assets, Block Editor support, full-width header image with parallax scrolling effect, custom accent color settings, custom logo upload, and editor styles. Demo: https://andersnoren.se/themes/hemingway/"
+msgstr "Hemingway is een schoon en mooi thema met twee kolommen voor bloggers. Het beschikt over een responsive ontwerp, retina-ready middelen, blok-editor ondersteuning, kopafbeelding over de volledige breedte met parallax scrolleffect, aangepaste accent kleurinstellingen, aangepast logo upload en editor stijlen. Demo:https://andersnoren.se/themes/hemingway/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Hemingway"
+msgstr "Hemingway"
+
+#: inc/classes/class-hemingway-customize.php:47
+msgid "Check to display the sidebar on mobile in Hemingway."
+msgstr "Vink aan om de zijbalk op mobiel te tonen in Hemingway."
+
+#: inc/classes/class-hemingway-customize.php:46
+msgid "Show Sidebar on Mobile"
+msgstr "Toon zijbalk op een mobiel"
+
+#: inc/classes/class-hemingway-customize.php:32
+msgid "Settings for the sidebar."
+msgstr "Instellingen voor de zijbalk."
+
+#: inc/classes/class-hemingway-customize.php:21
+msgid "Options included in the Hemingway theme."
+msgstr "Opties aanwezig in het Hemingway thema."
+
+#: inc/classes/class-hemingway-customize.php:20
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: header.php:24
+msgid "Skip to the content"
+msgstr "Ga naar de inhoud"
+
+#: header.php:107
+msgid "Toggle search field"
+msgstr "Toggle zoekveld"
+
+#: header.php:100
+msgid "Toggle mobile menu"
+msgstr "Toggle mobiel menu"
+
+#: content.php:87
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: functions.php:410
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "We konden geen resultaten vinden voor je zoekopdracht. Je kunt het nog een keer proberen via het onderstaande zoekformulier."
+
+#. Translators: %s = Number of results
+#: functions.php:408
+msgctxt "%s = Number of results"
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "We hebben %s resultaat gevonden voor je zoekopdracht."
+msgstr[1] "We hebben %s resultaten gevonden voor je zoekopdracht."
+
+#: functions.php:384
+msgctxt "%s = The search query"
+msgid "Search: %s"
+msgstr "Zoeken: %s"
+
+#. Translators: 1 = comment date, 2 = comment time
+#: functions.php:328
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: index.php:16 index.php:18
+msgid "Page %1$s of %2$s"
+msgstr "Pagina %1$s van %2$s"
+
+#: functions.php:578
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:572
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:566
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:560
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:577
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Groter"
+
+#: functions.php:571
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Groot"
+
+#: functions.php:565
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Normaal"
+
+#: functions.php:559
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:549
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:544
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light Gray"
+msgstr "Lichtgrijs"
+
+#: functions.php:539
+msgctxt "Name of the medium gray color in the Gutenberg palette"
+msgid "Medium Gray"
+msgstr "Medium grijs"
+
+#: functions.php:534
+msgctxt "Name of the dark gray color in the Gutenberg palette"
+msgid "Dark Gray"
+msgstr "Donker grijs"
+
+#: functions.php:529
+msgctxt "Name of the accent color in the Gutenberg palette"
+msgid "Accent"
+msgstr "Accent"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: comments.php:39
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s pingback"
+msgstr[1] "%s pingbacks"
+
+#: comments.php:17
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s reactie"
+msgstr[1] "%s reacties"
+
+#. Template Name of the theme
+msgid "No Sidebar Template"
+msgstr "Geen zijbalk template"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Volledige breedte template"
+
+#. Template Name of the theme
+msgid "Archive Template"
+msgstr "Archief template"
+
+#: inc/parts/template-archives-content.php:64
+msgid "Archives by Day"
+msgstr "Archieven per dag"
+
+#: inc/parts/template-archives-content.php:58
+msgid "Archives by Month"
+msgstr "Archieven per maand"
+
+#: inc/parts/template-archives-content.php:52
+msgid "Archives by Year"
+msgstr "Archieven per jaar"
+
+#: inc/parts/template-archives-content.php:46
+msgid "Contributors"
+msgstr "Bijdragers"
+
+#. Translators: %s = The name of the tag
+#: inc/parts/template-archives-content.php:39
+msgid "View all posts in %s"
+msgstr "Alle berichten bekijken in %s"
+
+#: inc/parts/template-archives-content.php:29
+msgid "Archives by Tags"
+msgstr "Archieven op Tags"
+
+#: inc/parts/template-archives-content.php:23
+msgid "Archives by Categories"
+msgstr "Archieven op Catagorie"
+
+#: inc/parts/template-archives-content.php:3
+msgid "Last 30 Posts"
+msgstr "Laatste 30 berichten"
+
+#: content.php:134
+msgid "Next post"
+msgstr "Volgend bericht"
+
+#: content.php:127
+msgid "Previous post"
+msgstr "Vorig bericht"
+
+#: index.php:59
+msgid "No results. Try again, would you kindly?"
+msgstr "Geen resultaten. Wil je het nog eens proberen?"
+
+#: index.php:79
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "Nieuwere<span> berichten</span> &raquo;"
+
+#: index.php:77
+msgid "&laquo; Older<span> posts</span>"
+msgstr "&laquo; Oudere<span> berichten</span>"
+
+#: image.php:93
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "Volgende<span> bijlage</span> &raquo;"
+
+#: image.php:92
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; Vorige<span> bijlage</span>"
+
+#: inc/classes/class-hemingway-customize.php:62
+msgid "Accent Color"
+msgstr "Accentkleur"
+
+#: inc/classes/class-hemingway-customize.php:81
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Upload een logo om de standaard site naam en beschrijving in de header te vervangen"
+
+#: inc/classes/class-hemingway-customize.php:79
+#: inc/classes/class-hemingway-customize.php:89
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:353
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: functions.php:343
+msgid "Awaiting moderation"
+msgstr "Wacht op moderatie"
+
+#: functions.php:322
+msgid "(Post author)"
+msgstr "(Auteur bericht)"
+
+#: functions.php:302
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:259
+msgid "Continue reading"
+msgstr "Lees verder"
+
+#: functions.php:221
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in dit gebied zullen getoond worden in de zijbalk."
+
+#: functions.php:219 inc/classes/class-hemingway-customize.php:29
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:215
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Widgets in dit gebied zullen getoond worden in de rechter kolom in de footer."
+
+#: functions.php:213
+msgid "Footer C"
+msgstr "Footer C"
+
+#: functions.php:209
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Widgets in dit gebied zullen getoond worden in de middelste kolom in de footer."
+
+#: functions.php:207
+msgid "Footer B"
+msgstr "Footer B"
+
+#: functions.php:203
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Widgets in dit gebied worden getoond in de linkerkolom van de footer."
+
+#: functions.php:201
+msgid "Footer A"
+msgstr "Footer A"
+
+#: footer.php:60
+msgid "Up"
+msgstr "Boven"
+
+#: footer.php:60
+msgid "To the top"
+msgstr "Naar boven"
+
+#: footer.php:60
+msgid "Theme by <a href=\"%s\">Anders Noren</a>"
+msgstr "Thema gemaakt door <a href=\"%s\">Anders Noren</a>"
+
+#: functions.php:462
+msgid "Sticky post"
+msgstr "Sticky berichten"
+
+#: content.php:53
+msgid "% Comments"
+msgstr "% reacties"
+
+#: content.php:53
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: content.php:53
+msgid "0 Comments"
+msgstr "Geen reacties"
+
+#: content.php:61 content.php:91 functions.php:302 functions.php:351
+msgid "Edit"
+msgstr "Bewerken"
+
+#: comments.php:65
+msgid "Newer<span> Comments</span> &raquo;"
+msgstr "Nieuwere<span> Reacties</span> &raquo;"
+
+#: comments.php:63
+msgid "&laquo; Older<span> Comments</span>"
+msgstr "&laquo; Oudere<span> Reacties</span>"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Het ziet er naar uit dat je een pagina hebt geprobeerd te openen die niet bestaat. Dit kan komen omdat de pagina verwijderd is of niet bestaat. Gebruik de zoekfunctie om te vinden wat je zoekt met het formulier hieronder."
+
+#: 404.php:14
+msgid "Error 404"
+msgstr "Fout 404"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://andersnoren.se"
+msgstr "https://andersnoren.se"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://andersnoren.se/teman/hemingway-wordpress-theme/"
+msgstr "https://andersnoren.se/teman/hemingway-wordpress-theme/"
